@@ -9,7 +9,10 @@
     "@testing-library/user-event": "^12.1.10",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-markdown": "^7.1.1",
     "react-scripts": "4.0.3",
+    "remark-gfm": "^3.0.1",
+    "remark-preset-wooorm": "^9.1.0",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
